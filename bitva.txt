@@ -1,0 +1,38 @@
+VelikostOceanuHrace1:8;8;3;4
+
+poleLodi1:| X |;| X |;| X |;| X |;  @  ;| X |;| X |;| X |;
+poleLodi1:| X |;  @  ;| X |;| X |;| X |;| X |;| X |;| X |;
+poleLodi1:| X |;| X |;| X |;| X |;  @  ;| X |;| X |;| X |;
+poleLodi1:| X |;  @  ;| X |;| X |;| X |;| X |;| X |;| X |;
+poleLodi1:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+poleLodi1:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+poleLodi1:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+poleLodi1:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+
+1.hrac:  -  ;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+1.hrac:| X |;  /  ;| X |;| X |;| X |;| X |;| X |;| X |;
+1.hrac:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+1.hrac:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+1.hrac:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+1.hrac:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+1.hrac:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+1.hrac:| X |;| X |;| X |;| X |;| X |;| X |;| X |;| X |;
+
+PoleLodi2:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+PoleLodi2:  S  ;| O |;| O |;  S  ;| O |;| O |;| O |;| O |;
+PoleLodi2:| O |;| O |;| O |;| O |;  S  ;| O |;| O |;| O |;
+PoleLodi2:| O |;| O |;| O |;| O |;  S  ;| O |;| O |;| O |;
+PoleLodi2:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+PoleLodi2:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+PoleLodi2:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+PoleLodi2:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+
+2.hrac:  -  ;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+2.hrac:| O |;  -  ;| O |;| O |;| O |;| O |;| O |;| O |;
+2.hrac:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+2.hrac:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+2.hrac:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+2.hrac:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+2.hrac:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+2.hrac:| O |;| O |;| O |;| O |;| O |;| O |;| O |;| O |;
+
